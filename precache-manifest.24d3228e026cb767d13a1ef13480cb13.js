@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7984aee1196a02fb17d85231553ae720",
+    "revision": "7208a774003200e01fed99423f773a62",
     "url": "/brunels_display/index.html"
   },
   {
-    "revision": "0a5a39028af24fc68582",
+    "revision": "873cb107bd56678abe41",
     "url": "/brunels_display/static/css/2.44c9ddaa.chunk.css"
   },
   {
-    "revision": "46d219a29da97c587677",
-    "url": "/brunels_display/static/css/3.5d3f6127.chunk.css"
+    "revision": "364621b3519cab3ae4dd",
+    "url": "/brunels_display/static/css/3.68ce127d.chunk.css"
   },
   {
     "revision": "650b40229438db6e7038",
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunels_display/static/css/main.755fb560.chunk.css"
   },
   {
-    "revision": "0a5a39028af24fc68582",
-    "url": "/brunels_display/static/js/2.d23a8dd1.chunk.js"
+    "revision": "873cb107bd56678abe41",
+    "url": "/brunels_display/static/js/2.1aefa7bc.chunk.js"
   },
   {
     "revision": "3f5a21eca3975cb4fd0d64dd6faa5e98",
-    "url": "/brunels_display/static/js/2.d23a8dd1.chunk.js.LICENSE.txt"
+    "url": "/brunels_display/static/js/2.1aefa7bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46d219a29da97c587677",
-    "url": "/brunels_display/static/js/3.a75b0381.chunk.js"
+    "revision": "364621b3519cab3ae4dd",
+    "url": "/brunels_display/static/js/3.d7f97c89.chunk.js"
   },
   {
     "revision": "650b40229438db6e7038",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunels_display/static/js/main.4edcfbf3.chunk.js"
   },
   {
-    "revision": "1ef8f51225c76e847f09",
-    "url": "/brunels_display/static/js/runtime-main.9c6418a1.js"
+    "revision": "e7905396ab4acd3a896b",
+    "url": "/brunels_display/static/js/runtime-main.c3e4b4b1.js"
   },
   {
     "revision": "eed64ecdd5df5a0e9949811c648e86f9",
@@ -166,6 +166,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee48e16dfc01a21f57c5ef24cad1be3e",
     "url": "/brunels_display/static/media/ssgb_logo.ee48e16d.png"
+  },
+  {
+    "revision": "30efd8825dc804b4be013844faf7082e",
+    "url": "/brunels_display/static/media/step10.30efd882.jpg"
+  },
+  {
+    "revision": "99f3f650d81599b53f684508bdbab576",
+    "url": "/brunels_display/static/media/step7.99f3f650.jpg"
+  },
+  {
+    "revision": "97fdfdc2bbb7df6e6932a33503e80fa3",
+    "url": "/brunels_display/static/media/step8a.97fdfdc2.jpg"
+  },
+  {
+    "revision": "a0255d880ec25b2b4c30663aaf35c5ed",
+    "url": "/brunels_display/static/media/step8b.a0255d88.jpg"
   },
   {
     "revision": "69d10a8d748f2bd5c4ef10b67a51475f",
