@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64184fceae9ce6709251abaeb2e21cbe",
+    "revision": "105cdfbcee59aeff31687d9b305a9bdf",
     "url": "/brunels_display/index.html"
   },
   {
-    "revision": "b9668cd0cce43f145598",
+    "revision": "e7b05d3f89aa2c0d176f",
     "url": "/brunels_display/static/css/2.44c9ddaa.chunk.css"
   },
   {
-    "revision": "b08c328c1bdfbbcc06ba",
+    "revision": "62290a5c6a317ed4cdd2",
     "url": "/brunels_display/static/css/3.0d2fe94a.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunels_display/static/css/main.755fb560.chunk.css"
   },
   {
-    "revision": "b9668cd0cce43f145598",
-    "url": "/brunels_display/static/js/2.c76bfb88.chunk.js"
+    "revision": "e7b05d3f89aa2c0d176f",
+    "url": "/brunels_display/static/js/2.3691ea5a.chunk.js"
   },
   {
     "revision": "3f5a21eca3975cb4fd0d64dd6faa5e98",
-    "url": "/brunels_display/static/js/2.c76bfb88.chunk.js.LICENSE.txt"
+    "url": "/brunels_display/static/js/2.3691ea5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b08c328c1bdfbbcc06ba",
-    "url": "/brunels_display/static/js/3.fbd23b50.chunk.js"
+    "revision": "62290a5c6a317ed4cdd2",
+    "url": "/brunels_display/static/js/3.6cf192ac.chunk.js"
   },
   {
     "revision": "650b40229438db6e7038",
@@ -44,8 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunels_display/static/js/main.4edcfbf3.chunk.js"
   },
   {
-    "revision": "8cb6009de4d1eb083077",
-    "url": "/brunels_display/static/js/runtime-main.3cb52129.js"
+    "revision": "ac51b316eccd8598c01f",
+    "url": "/brunels_display/static/js/runtime-main.fa9683da.js"
+  },
+  {
+    "revision": "eed64ecdd5df5a0e9949811c648e86f9",
+    "url": "/brunels_display/static/media/BRUNEL.eed64ecd.jpg"
   },
   {
     "revision": "eed64ecdd5df5a0e9949811c648e86f9",
@@ -60,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunels_display/static/media/Christopher_Claxton.ac353b13.jpg"
   },
   {
-    "revision": "e2be84c7fd160ea334e18b73f5d283df",
-    "url": "/brunels_display/static/media/ES1.e2be84c7.jpg"
+    "revision": "812a1e5e77cd37975b36656d42a71410",
+    "url": "/brunels_display/static/media/ES1.812a1e5e.jpg"
   },
   {
     "revision": "a20634aa15cb2903f06a934899472de3",
@@ -72,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunels_display/static/media/ES3.a2569523.jpg"
   },
   {
-    "revision": "90301d679babe60d807a42e9a8cc5c4c",
-    "url": "/brunels_display/static/media/ES4.90301d67.jpg"
+    "revision": "efd9e3d67e14c31b7393188eac4f69cc",
+    "url": "/brunels_display/static/media/ES4.efd9e3d6.jpg"
   },
   {
     "revision": "f8b1235cd3dd63b08661c150226915ab",
@@ -86,6 +90,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d8c9fdf262effa005034228e63ab248",
     "url": "/brunels_display/static/media/Edward_Chappel.9d8c9fdf.jpg"
+  },
+  {
+    "revision": "315a3760cfb786fcba3ce83fc394da24",
+    "url": "/brunels_display/static/media/GIBBS.315a3760.jpg"
+  },
+  {
+    "revision": "6542b0dcaafa9567d90791d801ff0412",
+    "url": "/brunels_display/static/media/GUPPY.6542b0dc.jpg"
   },
   {
     "revision": "6235a4a6104c584b7fdeed7714f34941",
@@ -186,6 +198,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d4f9b98b5572c522ab111e5f654ef41",
     "url": "/brunels_display/static/media/help_text.3d4f9b98.md"
+  },
+  {
+    "revision": "2eb387cd517612e565e7022acd097a65",
+    "url": "/brunels_display/static/media/network.2eb387cd.png"
   },
   {
     "revision": "ee48e16dfc01a21f57c5ef24cad1be3e",
